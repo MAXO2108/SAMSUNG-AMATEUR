@@ -32,6 +32,9 @@ a long history of using Samsung products and finding inspiration
 
 ### 🔹 Глава 1. Начало пути - Samsung Galaxy J5
 > **Эпоха надёжности и первых открытий**
+<img width="450" height="450" alt="j5" src="https://github.com/user-attachments/assets/d1f946a8-625b-4594-a10c-50366dfbccdb" />
+<img width="194" height="194" alt="j5-p" src="https://github.com/user-attachments/assets/04c77a93-3f0f-42f0-a6c1-312a19a03cb4" />
+
 
 Всё началось именно с него. **Galaxy J5** стал той самой отправной точкой, которая познакомила меня с фирменным стилем и удобством оболочки Samsung. Компактный, с физическими кнопками под экраном и приятным AMOLED-дисплеем — он честно выполнял все задачи и стал верным спутником на старте.
 
@@ -39,6 +42,8 @@ a long history of using Samsung products and finding inspiration
 
 ### 🔹 Глава 2. Первый настоящий восторг - Samsung Galaxy A70
 > **Тот самый «первый крутой телефон» в жизни**
+<img width="529" height="534" alt="A70" src="https://github.com/user-attachments/assets/4b33aed2-08c5-48aa-87dd-d54fb79979b5" />
+
 
 Настоящий прорыв и море эмоций. **Galaxy A70** ощущался как устройство из другого мира: огромный безрамочный экран на 6,7 дюйма, сканер отпечатков прямо в дисплее, переливающийся корпус и впечатляющая тройная камера. Именно этот смартфон подарил то самое чувство, когда достаёшь телефон из кармана и искренне любуешься им.
 
@@ -46,6 +51,8 @@ a long history of using Samsung products and finding inspiration
 
 ### 🔹 Глава 3. Глоток свежего воздуха - Galaxy A33 и Galaxy A53
 > **Возвращение плавности и стиля после Galaxy A13**
+<img width="400" height="400" alt="A33" src="https://github.com/user-attachments/assets/2fa51e56-581b-4aea-b9bb-df84c154b86d" />
+
 
 После недолгого и довольно скромного опыта с базовым **Galaxy A13**, который ощущался шагом назад по скорости и экрану, переход на **Galaxy A33**, а затем и на **Galaxy A53** стал настоящим глотком свежего воздуха. Вернулись сочные экраны Super AMOLED с повышенной герцовкой, защита от воды IP67, стереозвук и лаконичный монолитный дизайн. Смартфоны снова начали радовать скоростью работы и качеством снимков.
 
@@ -53,6 +60,8 @@ a long history of using Samsung products and finding inspiration
 
 ### 🔹 Глава 4. Высшая лига - Samsung Galaxy S23 Ultra
 > **Самый первый флагман и знакомство с S Pen**
+<img width="452" height="450" alt="S23-ULTRA" src="https://github.com/user-attachments/assets/7bf4313c-5e44-408b-afd1-d05b11a95783" />
+
 
 Момент, когда компромиссы остались в прошлом. **Galaxy S23 Ultra** открыл для меня двери в мир бескомпромиссных флагманов Samsung. Мощнейший процессор, невероятная камера на 200 МП с зумом, способным приблизить Луну, и встроенное электронное перо **S Pen**, превращающее смартфон в рабочий блокнот и холст.
 
@@ -60,6 +69,8 @@ a long history of using Samsung products and finding inspiration
 
 ### 🔹 Глава 5. Эра будущего - Samsung Galaxy S24 Ultra *(Мой основной телефон)*
 > **Революция ИИ прямо в кармане**
+<img width="504" height="503" alt="S24-ULTRA" src="https://github.com/user-attachments/assets/e8d6523c-e301-48e2-a3e8-555ac69f38b3" />
+
 
 Вершина моей коллекции и главный инструмент на сегодняшний день. **Galaxy S24 Ultra** объединил в себе:
 * 🛡️ **Титановый корпус** и строгую геометрию;
