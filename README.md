@@ -25,6 +25,7 @@ a long history of using Samsung products and finding inspiration
 | **03** | **Galaxy A33 / A53** | Глоток свежего воздуха и плавность после Galaxy A13 | 📜 История |
 | **04** | **Galaxy S23 Ultra** | Первый флагман, 200 МП и магия S Pen | 📜 История |
 | **05** | **Galaxy S24 Ultra** | Титан, плоский экран и революция Galaxy AI | 🔥 **Основной** |
+| **06** | **Galaxy S26 Ultra** | Стиль, современность, прогресс и Galaxy AI | **Будущий** |
 
 ---
 
