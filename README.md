@@ -33,8 +33,8 @@ a long history of using Samsung products and finding inspiration
 
 ### 🔹 Глава 1. Начало пути - Samsung Galaxy J5
 > **Эпоха надёжности и первых открытий**
-<img width="450" height="450" alt="j5" src="https://github.com/user-attachments/assets/d1f946a8-625b-4594-a10c-50366dfbccdb" />
-<img width="194" height="194" alt="j5-p" src="https://github.com/user-attachments/assets/04c77a93-3f0f-42f0-a6c1-312a19a03cb4" />
+<img width="467" height="428" alt="j5(3)" src="https://github.com/user-attachments/assets/cdb9096e-749a-4023-8324-409654574445" />
+
 
 
 Всё началось именно с него. **Galaxy J5** стал той самой отправной точкой, которая познакомила меня с фирменным стилем и удобством оболочки Samsung. Компактный, с физическими кнопками под экраном и приятным AMOLED-дисплеем — он честно выполнял все задачи и стал верным спутником на старте.
