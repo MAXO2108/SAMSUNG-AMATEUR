@@ -83,8 +83,8 @@ a long history of using Samsung products and finding inspiration
 ### Глава 6. Мечта, большая эра будущего - Samsung Galaxy S26 Ultra *(Будущий мой телефон)*
 <img width="1500" height="1500" alt="S26-ULTRA" src="https://github.com/user-attachments/assets/a9a2cd0f-aa1e-498c-8f9b-99e6a926c151" />
 
-* **Приватный дисплей** (Privacy Display);
-* **Глубокая интеграция AI** Galaxy AI и Bixby;
+* **Приватный дисплей:** (Privacy Display);
+* **Глубокая интеграция AI:** Galaxy AI и Bixby;
 * **Быстрая зарядка:** проводная зарядка увеличена до 60 Вт (до 70–75% за 30 минут), а беспроводная - до 25 Вт;
 * **Обновленная камера:** основной модуль на 200 Мп получил более светлую диафрагму f/1.4 (пропускает на 47% больше света), а телеобъектив 5x - диафрагму f/2.9;
 * **Процессор и производительность:** смартфон работает на кастомном чипе Qualcomm Snapdragon 8 Elite Gen 5 for Galaxy, получившем прирост CPU на 19%, GPU на 24% и NPU на 39%.
