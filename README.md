@@ -53,6 +53,8 @@ a long history of using Samsung products and finding inspiration
 ### 🔹 Глава 3. Глоток свежего воздуха - Galaxy A33 и Galaxy A53
 > **Возвращение плавности и стиля после Galaxy A13**
 <img width="400" height="400" alt="A33" src="https://github.com/user-attachments/assets/2fa51e56-581b-4aea-b9bb-df84c154b86d" />
+<img width="400" height="400" alt="A53(1)" src="https://github.com/user-attachments/assets/a21d12f0-01d1-48b8-98d0-73c842d1bac7" />
+
 
 
 После недолгого и довольно скромного опыта с базовым **Galaxy A13**, который ощущался шагом назад по скорости и экрану, переход на **Galaxy A33**, а затем и на **Galaxy A53** стал настоящим глотком свежего воздуха. Вернулись сочные экраны Super AMOLED с повышенной герцовкой, защита от воды IP67, стереозвук и лаконичный монолитный дизайн. Смартфоны снова начали радовать скоростью работы и качеством снимков.
