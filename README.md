@@ -87,7 +87,7 @@ a long history of using Samsung products and finding inspiration
 
 ---
 
-### 🔹 Глава 6. Стремительный принт - Samsung Galaxy M52
+### 🔹 Глава 6. Стремительный спринт - Samsung Galaxy M52
 > **Легкий и быстрый, но на короткую дистанцию, первый Galaxy M**
 <img width="529" height="534" alt="M52" src="https://github.com/user-attachments/assets/8a6cc858-1ef0-41fb-9d73-a967a06253ec" />
 
