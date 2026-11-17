@@ -3,7 +3,7 @@ a long history of using Samsung products and finding inspiration
 
 <div align="center">
 
-# 📱 Моя история Samsung Galaxy
+# 📱 Моя история Samsung Galaxy: 2015 до н.в.
 ### От первого знакомства с Android до революции Galaxy AI в кармане
 
 ![Samsung](https://shields.io)
