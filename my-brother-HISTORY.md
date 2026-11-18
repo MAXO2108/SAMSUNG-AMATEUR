@@ -13,28 +13,28 @@
 ## 📖 Хронология устройств
 
 ### Глава 1. Начало пути - Samsung Galaxy J2 Core
-<img width="1024" height="1280" alt="j2-core" src="https://github.com/user-attachments/assets/40710d2e-3784-42a1-a749-ae66d0153ac9" />
+<img width="515" height="700" alt="j2-core" src="https://github.com/user-attachments/assets/40710d2e-3784-42a1-a749-ae66d0153ac9" />
 
 Вся история началась именно с него. **J2 Core** стал моим проводником в мир мобильных технологий. Это ультрабюджетный смартфон начального уровня и первое устройство Samsung на базе облегченной операционной системы Android Go. Он научил меня базовым вещам и дал старт моему увлечению гаджетами.
 
 ---
 
 ### ✨ Глава 2. Первый восторг - Samsung Galaxy E5
-<img width="1080" height="1107" alt="E5" src="https://github.com/user-attachments/assets/b36677d7-652e-4961-a20e-e8a9f5d142ca" />
+<img width="675" height="700" alt="E5" src="https://github.com/user-attachments/assets/b36677d7-652e-4961-a20e-e8a9f5d142ca" />
 
 Уверенное продвижение вперед и переход на новый уровень! Целых **16 ГБ** встроенной памяти открыли для меня новые горизонты. Смартфон уверенно выполнял все мои повседневные задачи, а я был по-настоящему доволен этим апгрейдом.
 
 ---
 
 ### 😭 Глава 3. Счастье до слез - Samsung Galaxy A03 Core
-<img width="1080" height="1107" alt="A03-core" src="https://github.com/user-attachments/assets/3ee7481b-ceb1-495c-80fd-d08ecfaf1f82" />
+<img width="680" height="707" alt="A03-core" src="https://github.com/user-attachments/assets/3ee7481b-ceb1-495c-80fd-d08ecfaf1f82" />
 
 Первый телефон, который подарил мне настолько сильные эмоции, что заставил чуть ли не плакать от счастья. Отличная плавность работы, **32 ГБ** памяти и мощный аккумулятор на **5000 мАч**, который позволял не думать о розетке весь день. Настоящий прорыв для меня!
 
 ---
 
 ### 🚀 Глава 4. Смартфон среднего класса - Samsung Galaxy A34 *(Основной)*
-<img width="1080" height="1166" alt="A34" src="https://github.com/user-attachments/assets/36347f0b-a1de-47c4-95f8-606e7c3235f1" />
+<img width="680" height="767" alt="A34" src="https://github.com/user-attachments/assets/36347f0b-a1de-47c4-95f8-606e7c3235f1" />
 
 Лучший телефон за всю мою историю использования. В нем сошлось всё, о чем можно было мечтать:
 * ⚡ **Невероятная плавность** экрана и системы
