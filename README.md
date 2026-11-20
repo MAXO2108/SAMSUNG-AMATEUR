@@ -151,7 +151,8 @@ a long history of using Samsung products and finding inspiration
 
 ### 🔹 Глава 12. Мечта, большая эра будущего - Samsung Galaxy S26 Ultra *(Будущий мой телефон)*
 > **Стиль, более продвинутое устройство, Galaxy AI**
-<img width="504" height="503" alt="S26-ULTRA" src="https://github.com/user-attachments/assets/a9a2cd0f-aa1e-498c-8f9b-99e6a926c151" />
+<img width="504" height="503" alt="S26-ultra(11)" src="https://github.com/user-attachments/assets/dd3ce75d-e650-4d51-9df9-775b0014b4c5" />
+
 
 * **Приватный дисплей:** (Privacy Display);
 * **Глубокая интеграция AI:** Galaxy AI и Bixby;
